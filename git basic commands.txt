@@ -1,0 +1,10 @@
+1. cd
+2. ls
+3. git clone url
+4. git status within the directory
+5. git add filename
+6. git commit -m "some comment" and press enter
+7. git push enter the user name and the password.
+8. git pull
+9. git add . / git add -A to all the new files to the repo
+10. /:wq to com out of the full blown commit.
